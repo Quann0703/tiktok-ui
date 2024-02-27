@@ -71,6 +71,9 @@
     color: rgba(22, 24, 35, 0.34);
 }
 .search-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: var(--seach-button-width);
     height: 100%;
     border-top-right-radius: var(--search-boder-radius);
